@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Diplomata+SC|Roboto:400,700,900');
+* {
+    color: #333;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: darkred;
+}
+
+.btn:hover {
+    background-color: darkturquoise;
+}
+
+.btn:active {
+    background-color: darkgreen;
+}
+
+.box {
+    box-sizing: : border-box;
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    border: 10px solid black;
+    padding: 20px 30px;
+    margin: 100px;
+}
+
+.header-tittle {
+    color: aqua;
+}
+
+h1 {
+    font-family: 'Diplomata SC', cursive;
+    font-family: 'Roboto', sans-serif;
+}
